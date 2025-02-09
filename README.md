@@ -1,5 +1,3 @@
-# PC-Laptop-optimization
-
 # PC-Laptop-Optimization
 
 This repository contains scripts and tools to optimize the performance of PCs and laptops.
