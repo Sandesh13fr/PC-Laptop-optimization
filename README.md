@@ -1,6 +1,5 @@
 # PC-Laptop-optimization
 
-```markdown
 # PC-Laptop-Optimization
 
 This repository contains scripts and tools to optimize the performance of PCs and laptops.
@@ -41,6 +40,3 @@ If you would like to contribute to this project, please open an issue or submit 
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-You can create or update the README file with this content. If you need any modifications or additional details, please let me know!
